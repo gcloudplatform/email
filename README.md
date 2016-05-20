@@ -1,4 +1,4 @@
-# golang sample send emial package
+# golang sample send email package
 
 [![GoDoc](https://godoc.org/github.com/gcloudplatform/email?status.png)](https://godoc.org/github.com/gcloudplatform/email)
 
