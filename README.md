@@ -1,4 +1,7 @@
 # golang sample send emial package
+
+[![GoDoc](https://godoc.org/github.com/gcloudplatform/email?status.png)](https://godoc.org/github.com/gcloudplatform/email)
+
 requirement go 1.6 (mime.QEncoding.Encode(charset, s string))
 
 ## Feature
