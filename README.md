@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/gcloudplatform/email?status.png)](https://godoc.org/github.com/gcloudplatform/email)
 
-requirement go 1.6 (mime.QEncoding.Encode(charset, s string))
+requirement go 1.5 (mime.QEncoding.Encode(charset, s string))
 
 ## Feature
 - send html format email
